@@ -16,4 +16,5 @@ PyTorch3D  # 3D Reconstruction
 
 # Model Zoo - (Download Opensource Files available on their respective Github pages)
 Pix3D - https://github.com/facebookresearch/meshrcnn/blob/main/datasets/pix3d/download_pix3d.sh
+
 ShapeNet - https://github.com/facebookresearch/meshrcnn/blob/main/datasets/shapenet/download_shapenet.sh
