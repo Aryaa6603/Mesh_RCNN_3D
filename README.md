@@ -10,3 +10,9 @@ Mesh R-CNN is a system that improves 3D shape prediction.
 Detectron2 # Object Detection
 PyTorch3D  # 3D Reconstruction
 
+Running Experiments
+Pix3D
+See INSTRUCTIONS_PIX3D.md for more instructions.
+
+ShapeNet
+See INSTRUCTIONS_SHAPENET.md for more instructions.
