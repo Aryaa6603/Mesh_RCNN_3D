@@ -1,5 +1,6 @@
 # Mesh_RCNN_3D
-3D Object Detection and Reconstruction
+3D Object Detection and Reconstruction 
+All the research is here - https://arxiv.org/abs/1906.02739
 
 Mesh R-CNN is a system that improves 3D shape prediction. 
  It's an extension of the 2D instance segmentation system, Mask R-CNN. Mesh R-CNN adds a mesh prediction branch to Mask R-CNN. 
@@ -7,8 +8,9 @@ Mesh R-CNN is a system that improves 3D shape prediction.
 
 
 # Installation Requirements
-Detectron2 # Object Detection
-PyTorch3D  # 3D Reconstruction
+Detectron2 - Object Detection
+
+PyTorch3D - 3D Reconstruction
 
 # Running Experiments
 - Pix3D
