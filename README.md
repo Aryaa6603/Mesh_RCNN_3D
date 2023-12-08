@@ -14,7 +14,7 @@ PyTorch3D  # 3D Reconstruction
 - Pix3D
 - ShapeNet
 
-Model Zoo - (Download Opensource Files available on their respective Github pages)
+# Model Zoo - (Download Opensource Files available on their respective Github pages)
 Mesh R-CNN	Pixel2Mesh	SphereInit
 S1	meshrcnn_R50.pth	pixel2mesh_R50.pth	sphereinit_R50.pth
 S2	meshrcnn_S2_R50.pth	pixel2mesh_S2_R50.pth	sphereinit_S2_R50.pth
