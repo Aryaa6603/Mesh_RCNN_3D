@@ -18,3 +18,8 @@ PyTorch3D  # 3D Reconstruction
 Pix3D - https://github.com/facebookresearch/meshrcnn/blob/main/datasets/pix3d/download_pix3d.sh
 
 ShapeNet - https://github.com/facebookresearch/meshrcnn/blob/main/datasets/shapenet/download_shapenet.sh
+
+# Example 
+![input](https://user-images.githubusercontent.com/4369065/77708628-cda99d00-6f85-11ea-949a-5dad891005ee.jpg)
+![segmentation](https://user-images.githubusercontent.com/4369065/77709133-52e18180-6f87-11ea-901a-0706c3d4e3a3.png)
+![rendered_output](https://user-images.githubusercontent.com/4369065/77708647-df8b4000-6f85-11ea-8d5f-4ae62ea3bf07.png)
